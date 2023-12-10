@@ -1,5 +1,6 @@
 # subweb for Vercel
 ## Vercel 快速部署
+
 为方便 docker 用户方便挂载或环境变量部署,默认`main`分支不支持`Vercel`,需要`fork`仓库少许设置才能部署至`Vercel`.
 1. fork 本仓库, 注意**取消**勾选`Copy the main branch only`
 2. Vercel 中创建项目使用`subweb`首次部署.
